@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T19:54:06 TRT" name="Default suite" finished-at="2023-06-07T19:55:14 TRT" duration-ms="67426">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T19:54:06 TRT" name="Default test" finished-at="2023-06-07T19:55:14 TRT" duration-ms="67426">
+      <class name="com.qa.test.ProductsTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:06 TRT" name="beforeTest" finished-at="2023-06-07T19:54:19 TRT" duration-ms="13067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:19 TRT" name="beforeClass" finished-at="2023-06-07T19:54:22 TRT" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:22 TRT" name="beforeMethod" finished-at="2023-06-07T19:54:22 TRT" duration-ms="306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.ProductsTest.validateProductsonProductPage(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateProductsonProductPage(java.lang.reflect.Method)[pri:1, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:22 TRT" name="validateProductsonProductPage" finished-at="2023-06-07T19:54:38 TRT" duration-ms="16491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.ProductsTest.validateProductsonProductPage(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductsonProductPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:38 TRT" name="afterMethod" finished-at="2023-06-07T19:54:38 TRT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:38 TRT" name="beforeMethod" finished-at="2023-06-07T19:54:38 TRT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.ProductsTest.validateProductsDetailonProductPage(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateProductsDetailonProductPage(java.lang.reflect.Method)[pri:2, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:54:38 TRT" name="validateProductsDetailonProductPage" finished-at="2023-06-07T19:55:13 TRT" duration-ms="34466" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.test.ProductsTest.validateProductsDetailonProductPage(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductsDetailonProductPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:55:13 TRT" name="afterMethod" finished-at="2023-06-07T19:55:13 TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:55:13 TRT" name="afterClass" finished-at="2023-06-07T19:55:13 TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.test.ProductsTest@2dfaea86]" started-at="2023-06-07T19:55:13 TRT" name="afterTest" finished-at="2023-06-07T19:55:14 TRT" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.test.ProductsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

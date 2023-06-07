@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<suite  name="Suite" parallel="false"> 
+  <test name="Test">	 
+    <classes>
+      <class name="com.qa.test.LoginTests"/>
+      <class name="com.qa.test.ProductsTest"/>
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
